@@ -4,6 +4,7 @@ Nxopenpy is about my operations and skills in NXOpen's Python API. Not an offici
 Nxopenpy记录的是我在NXOpen-Python API接口下的一些操作和使用技巧
 
 --------------------------------------------------------------------------------------------------
+# NX-start-Pycharm.bat
 
 NX-start-Pycharm.bat,this is a startup file, open the file and modify three lists of them, and then you can use the Pycharm environment of NXOpen.For details, please refer to https://zhuanlan.zhihu.com/p/343432265
 
