@@ -11,5 +11,6 @@ NX-start-Pycharm.bat,this is a startup file, open the file and modify three list
 NX-start-Pycharm.bat是一个启动文件，打开文件并修改其中三项路径，然后可以使用NXOpen的Pycharm环境。详情请参考https://zhuanlan.zhihu.com/p/343432265
 
 ![NXOpen-Python-Pycharm环境设置](NXOpen-Python-Pycharm环境设置.jpg)
+Then it will like this
 ![NXOpen-Python-Pycharm environment-autofill](https://pic1.zhimg.com/80/v2-1dcf0a3c7e3a1b8d4f9e065927e505d8_720w.jpg)
 --------------------------------------------------------------------------------------------------
