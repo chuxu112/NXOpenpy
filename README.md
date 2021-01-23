@@ -12,5 +12,6 @@ NX-start-Pycharm.bat是一个启动文件，打开文件并修改其中三项路
 
 ![NXOpen-Python-Pycharm环境设置](NXOpen-Python-Pycharm环境设置.jpg)
 Then it will like this
+
 ![NXOpen-Python-Pycharm environment-autofill](https://pic1.zhimg.com/80/v2-1dcf0a3c7e3a1b8d4f9e065927e505d8_720w.jpg)
 --------------------------------------------------------------------------------------------------
